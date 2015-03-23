@@ -343,4 +343,5 @@ display: none;
 .sponsorsidebarblock .newsticker li{
     list-style-type: none;
     margin-left: -20px;
+    text-align: center;
 }
